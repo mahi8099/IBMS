@@ -1,2 +1,2 @@
-Run bellow command in the root folder
+Run below command in the root folder
 composer install
