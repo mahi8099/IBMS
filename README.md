@@ -2,7 +2,7 @@
     composer install
 2) php artisan serve
 3) In the browser type http://127.0.0.1:8000
-4) To Import user: http://127.0.0.1:8000/import-users
+4) To Import user: http://127.0.0.1:8000/import-user
 5) To work with queues we need to run below command in the cmd of root folder
     php artisan queue:table
     php artisan migrate
